@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,My Self Muhammad uzair</h1>
-<h3 align="center">FrontEnd Developer HTML|CSS|JAVASCRIPT</h3>
+<h3 align="center">Full Stack Developer HTML|CSS|JAVASCRIPT|Next js|React js| </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzair-106&label=Profile%20views&color=0e75b6&style=flat" alt="uzair-106" /> </p>
 
